@@ -1,0 +1,80 @@
+.opciones{
+    background-color: #401091;
+    height: 70px;
+    border-radius: 7px;
+     display: flex;
+      align-items: center;
+   }
+   .decorado{
+       text-decoration: none;
+       margin: auto;
+       padding: auto;
+   }
+   
+   .buscador{
+       width:50%;
+       position:relative;
+       height: 90%;
+   }
+   .columna{
+       height: 65%;
+   }
+       .input{
+       box-sizing: border-box;
+       color: #191919;
+       width: 100%;
+       }
+       .icono{
+           color: #272323;
+           position: absolute;
+           width: 20px;
+           left: 12px;
+           top: 50%;
+           transform: translateY(-50%);
+           font-size: 14px;
+       }
+       input{
+           text-indent:22px;
+           border-radius: 7px;
+       }
+   
+   .main{
+       width:85%;
+       padding: auto;
+       margin: auto;
+       
+   }
+   
+   
+   .pagination>li.page-item>a {
+     background: rgba(0,0,0,0);
+     color: #fff;
+     border: rgba(0,0,0,0);
+   }
+   
+   .card{
+       position: relative;
+       display: inline-block;
+       border-radius: 0px;
+   }
+   
+   .nombre{
+       position: absolute;
+       top: 10px;
+       left: 10px;
+       background-color: white;
+       border-radius: 3px;
+       
+   }
+   
+   .user{
+       width: 25px;
+       margin: 5px;
+       border-radius: 4px;
+   }
+   
+   .user>span{
+       font-size: 7px;
+   }
+   
+   

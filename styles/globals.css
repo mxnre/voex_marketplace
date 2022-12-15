@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Toastify__spinner {
+  border-color: var(--toastify-spinner-color-empty-area) !important;
+  border-right-color: var(--toastify-spinner-color) !important;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background-color: rgb(21, 178, 229);
+  color: rgb(255, 255, 255);
+}
+
+.scroll-box {
+  border-color: transparent;
+  max-height: inherit;
+  max-width: inherit;
+  height: inherit;
+  width: inherit;
+  overflow: auto;
+}
+
+.scroll-box:hover {
+  border-color: inherit;
+}
+
+.scroll-box::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scroll-box::-webkit-scrollbar-thumb {
+  border-width: 4px;
+  border-style: solid;
+  border-image: initial;
+  border-color: inherit;
+  border-radius: 4px;
+}

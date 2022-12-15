@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1291" viewBox="0 0 1920 1291">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="1920" height="1291" transform="translate(-5 143)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#350c7e"/>
+      <stop offset="0.611" stop-color="#140447"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="base_dark" data-name="base dark" transform="translate(5 -143)">
+    <g id="Mask_Group_42" data-name="Mask Group 42" clip-path="url(#clip-path)">
+      <rect id="base" width="1920" height="1950" transform="translate(-5 143)"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="658" cy="658" r="658" transform="translate(-256 1021)" opacity="0.558" fill="url(#radial-gradient)"/>
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="658" cy="658" r="658" transform="translate(889 319)" opacity="0.558" fill="url(#radial-gradient)"/>
+    </g>
+  </g>
+</svg>

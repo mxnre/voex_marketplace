@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="66" viewBox="0 0 66 66">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#401091"/>
+      <stop offset="1" stop-color="#0b0239"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8029" data-name="Rectangle 8029" width="66" height="66" transform="translate(0 0.11)" stroke="#fff" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Icon" transform="translate(0 -0.11)">
+    <g id="Group_31" data-name="Group 31" clip-path="url(#clip-path)">
+      <path id="Path_8540" data-name="Path 8540" d="M58.589,13.02H55.334V3.255a2.96,2.96,0,0,0-1.3-2.6C53.381,0,52.079,0,51.1,0L5.208,13.02A6.652,6.652,0,0,0,0,19.53V58.59A6.529,6.529,0,0,0,6.51,65.1H58.59a6.529,6.529,0,0,0,6.51-6.51V19.53a6.529,6.529,0,0,0-6.51-6.51Zm-9.765,0H29.62l19.2-5.534ZM6.51,58.59V19.53h52.08v9.765h-6.51a9.765,9.765,0,1,0,0,19.53h6.51V58.59ZM58.589,35.8v6.51h-6.51a3.255,3.255,0,0,1,0-6.51Z" transform="translate(0 1.09)" stroke="#fff" stroke-width="1" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

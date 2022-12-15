@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1135" viewBox="0 0 1920 1135">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="1920" height="1135" transform="translate(2 42.354)" fill="#2b2b2b"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x2="1.033" y2="1.062" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#401091"/>
+      <stop offset="0.416" stop-color="#2a0a5f"/>
+      <stop offset="1" stop-color="#0d023c"/>
+    </linearGradient>
+  </defs>
+  <g id="base" transform="translate(-2 -42.354)">
+    <g id="Mask_Group_41" data-name="Mask Group 41" clip-path="url(#clip-path)">
+      <rect id="base-2" data-name="base" width="1920" height="1140" transform="translate(2 36.354)" fill="#2b2b2b"/>
+      <rect id="purple" width="1920" height="1140" transform="translate(2 36.354)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

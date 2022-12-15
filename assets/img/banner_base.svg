@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="985" viewBox="0 0 1920 985">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="1920" height="985" transform="translate(0 -5)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#350c7e"/>
+      <stop offset="0.611" stop-color="#140447"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="banner_base" transform="translate(0 5)" clip-path="url(#clip-path)">
+    <rect id="base" width="1920" height="985" transform="translate(0 -5)"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="658" cy="658" r="658" transform="translate(750 -152)" opacity="0.558" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="567.5" cy="567.5" r="567.5" transform="translate(-227 243)" opacity="0.495" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
